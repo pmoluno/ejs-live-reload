@@ -1,0 +1,16 @@
+{
+  "name": "ejs-live-reload",
+  "version": "1.0.0",
+  "description": "Automatically reload the browser when EJS file content changes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["ejs", "live-reload", "hot-reload", "express"],
+  "author": "P Moluno",
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^3.6.0",
+    "socket.io": "^4.7.5"
+  }
+}
