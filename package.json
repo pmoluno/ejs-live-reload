@@ -9,6 +9,10 @@
   "keywords": ["ejs", "live-reload", "hot-reload", "express"],
   "author": "P Moluno",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pmoluno/ejs-live-reload/issues"
+  },
+  "homepage": "https://github.com/pmoluno/ejs-live-reload#readme",
   "dependencies": {
     "chokidar": "^3.6.0",
     "socket.io": "^4.7.5"
