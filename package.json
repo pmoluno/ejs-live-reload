@@ -1,6 +1,6 @@
 {
   "name": "ejs-live-reload",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Automatically reload the browser when EJS file content changes",
   "main": "index.js",
   "scripts": {
